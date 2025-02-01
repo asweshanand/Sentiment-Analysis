@@ -1,13 +1,8 @@
 # iConcepts-in-Orthodontics
-This repository helps keep track of the progress made by Group 12 in the Data Science project.
+This repository helps keep track of the progress made as part of the the Data Science project.
 
 ## Author
-Team members:
 Aswesh Thrissur Anand
-Cheng Chang
-Shyam Srinivas
-Wanying Ding
-Xinliang Zhou
 
 ## File Structure
 
